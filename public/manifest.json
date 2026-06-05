@@ -1,0 +1,12 @@
+{
+  "name": "Bumply",
+  "short_name": "Bumply",
+  "description": "רשימת משימות יומית להריון — מים, קלוריות, משימות וויטמינים",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff1f2",
+  "theme_color": "#fff1f2",
+  "orientation": "portrait"
+}
